@@ -3,9 +3,15 @@
 \contentsline {chapter}{\numberline {2}Dice rolling and thresholds}{7}% 
 \contentsline {section}{Rolling Dice}{7}% 
 \contentsline {section}{Thresholds}{8}% 
+\contentsline {section}{Types of Rolls}{9}% 
 \contentsline {chapter}{\numberline {3}Character Creation}{11}% 
 \contentsline {section}{Character concepts}{11}% 
 \contentsline {section}{What makes up a character?}{12}% 
 \contentsline {section}{Coming up with powers}{13}% 
 \contentsline {section}{GM Review}{13}% 
 \contentsline {section}{Character Creation Example}{13}% 
+\contentsline {chapter}{\numberline {4}GM Guide}{15}% 
+\contentsline {section}{Setting up the game}{15}% 
+\contentsline {section}{\numberline {4.1}Before the Game}{15}% 
+\contentsline {section}{Running the game}{15}% 
+\contentsline {section}{\numberline {4.2}Running the game}{16}% 

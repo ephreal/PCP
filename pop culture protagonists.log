@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.11)  11 DEC 2019 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.11)  11 DEC 2019 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -56,44 +56,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-)
+
+Underfull \vbox (badness 2302) has occurred while \output is active []
+
+ [3])
 \tf@toc=\write3
 \openout3 = `"pop culture protagonists.toc"'.
 
 )
-(./book/chapter1.tex [3] [4
-
-]
+(./book/chapter1.tex [4]
 Chapter 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5])
+ [5
+
+])
 (./book/chapter2.tex [6]
 Chapter 2.
 [7
 
-] [8]) (./book/chapter3.tex [9] [10
-
-]
+] [8] [9]) (./book/chapter3.tex [10]
 Chapter 3.
-[11] [12]) [13] (./pop culture protagonists.aux) ) 
+[11
+
+] [12] [13]) (./book/chapter4.tex [14]
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
+
+])
+[16] (./pop culture protagonists.aux) ) 
 Here is how much of TeX's memory you used:
- 293 strings out of 492167
- 3388 string characters out of 6131557
+ 297 strings out of 492167
+ 3445 string characters out of 6131557
  66064 words of memory out of 5000000
- 4715 multiletter control sequences out of 15000+600000
+ 4716 multiletter control sequences out of 15000+600000
  9459 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,6n,21p,167b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "pop culture protagonists.pdf" (13 pages, 67153 bytes).
+ 26i,6n,21p,167b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on "pop culture protagonists.pdf" (16 pages, 80078 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
