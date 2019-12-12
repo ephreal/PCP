@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1576109653 "pop culture protagonists.tex" "pop culture protagonists.pdf" "pop culture protagonists" 1576109653
+["pdflatex"] 1576121449 "pop culture protagonists.tex" "pop culture protagonists.pdf" "pop culture protagonists" 1576122285
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1572595918 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1572595918 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -26,13 +26,13 @@
   "book/chapter1.tex" 1576104157 2243 c9399dfc81fc23eba7cfff29eab8758e ""
   "book/chapter2.tex" 1576108324 4930 c176719e90af64ccf215969a6eb55c01 ""
   "book/chapter3.tex" 1576105308 4739 ace49b2fff8a8f0244af09abd8ce36f3 ""
-  "book/chapter4.tex" 1576109653 2395 5a3d6d84c18829e17aa348b89b573958 ""
+  "book/chapter4.tex" 1576122285 6748 162f2650bbf23ce465890c34a02676e6 ""
   "book/title_page.tex" 1576104157 540 7931009ebfeed78da904850449e34645 ""
-  "pop culture protagonists.aux" 1576109653 1909 d593332a7233921e00d0c047eb2fee44 "pdflatex"
+  "pop culture protagonists.aux" 1576121449 1791 4f6b01adbf856785ed4c5dbbbddc65c1 "pdflatex"
   "pop culture protagonists.tex" 1576105869 197 79e17824cd452f9636a7ffc1bd3d1fa2 ""
-  "pop culture protagonists.toc" 1576109653 917 03ec3a99d41bcbfdbe125da70508b26c "pdflatex"
+  "pop culture protagonists.toc" 1576121449 839 aa25e641d9a3a8bca3049783e962c9c9 "pdflatex"
   (generated)
-  "pop culture protagonists.pdf"
-  "pop culture protagonists.toc"
-  "pop culture protagonists.log"
   "pop culture protagonists.aux"
+  "pop culture protagonists.log"
+  "pop culture protagonists.toc"
+  "pop culture protagonists.pdf"

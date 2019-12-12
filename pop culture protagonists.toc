@@ -11,7 +11,6 @@
 \contentsline {section}{GM Review}{13}% 
 \contentsline {section}{Character Creation Example}{13}% 
 \contentsline {chapter}{\numberline {4}GM Guide}{15}% 
-\contentsline {section}{Setting up the game}{15}% 
-\contentsline {section}{\numberline {4.1}Before the Game}{15}% 
-\contentsline {section}{Running the game}{15}% 
-\contentsline {section}{\numberline {4.2}Running the game}{16}% 
+\contentsline {section}{Setting up the game}{16}% 
+\contentsline {section}{Setting up the game}{17}% 
+\contentsline {section}{Running the game}{18}% 
