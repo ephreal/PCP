@@ -7,7 +7,7 @@ Pop-Culture RPG is a simple tabletop RPG designed with people who have not playe
 
 ## How do  I start?
 
-Read through [the sourcebook](https://github.com/ephreal/Pop-CultureRPG/blob/master/pop%20culture%20protagonists.pdf), grab a six sided die, find some other people to join you, and start.
+Read through [the sourcebook](https://github.com/ephreal/Pop-CultureRPG/blob/master/pop-culture%20rpg.pdf), grab a six sided die, find some other people to join you, and start.
 
 ## No, seriously, how do I start?
 If you are a GM, familiarize yourself with the rolling rules in chapter 2 and character rules in chapter 3. If you are new to GMing, read through chapter 4 as well. It has some advice for GMs. Overall, you'll find there is very little to learn, freeing you up to concentrate on creating a world or story for your players.
