@@ -1,4 +1,4 @@
-# PCP
+# PRPG
 Pop-Culture RPG is a simple tabletop RPG designed with people who have not played a tabletop RPG before in mind. I would, however, recommend that the GM be experienced in running a tabletop game because the small ruleset makes knowing how to handle situations difficult at times. To make the game beginner friendly, it:
 
 * Has very small ruleset
