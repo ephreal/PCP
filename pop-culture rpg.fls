@@ -1,30 +1,30 @@
 PWD /home/ephreal/Documents/code/latex/git/PCP
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT pop culture protagonists.tex
-OUTPUT pop culture protagonists.log
+INPUT pop-culture rpg.tex
+OUTPUT pop-culture rpg.log
 INPUT /usr/share/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/bk12.clo
 INPUT /usr/share/texmf-dist/tex/latex/base/bk12.clo
 INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT pop culture protagonists.aux
-INPUT pop culture protagonists.aux
-OUTPUT pop culture protagonists.aux
+INPUT pop-culture rpg.aux
+INPUT pop-culture rpg.aux
+OUTPUT pop-culture rpg.aux
 INPUT book/title_page.tex
 INPUT book/title_page.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-OUTPUT pop culture protagonists.pdf
+OUTPUT pop-culture rpg.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT pop culture protagonists.toc
-INPUT pop culture protagonists.toc
+INPUT pop-culture rpg.toc
+INPUT pop-culture rpg.toc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -34,7 +34,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT pop culture protagonists.toc
+OUTPUT pop-culture rpg.toc
 INPUT book/chapter1.tex
 INPUT book/chapter1.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -45,7 +45,7 @@ INPUT book/chapter3.tex
 INPUT book/chapter3.tex
 INPUT book/chapter4.tex
 INPUT book/chapter4.tex
-INPUT pop culture protagonists.aux
+INPUT pop-culture rpg.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
