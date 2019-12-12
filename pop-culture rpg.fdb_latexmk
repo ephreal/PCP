@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1576164084 "pop-culture rpg.tex" "pop-culture rpg.pdf" "pop-culture rpg" 1576164084
+["pdflatex"] 1576164704 "pop-culture rpg.tex" "pop-culture rpg.pdf" "pop-culture rpg" 1576164704
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1572595918 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1572595918 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -25,15 +25,15 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1576077143 8044940 532df55a690369dc81545d0afda957ae ""
   "book/chapter1.tex" 1576160640 2240 8ac24667a3945cbc5428b18005544546 ""
   "book/chapter2.tex" 1576164071 4961 d47e5935b3c733e39fc1043bad5fe4f5 ""
-  "book/chapter3.tex" 1576160640 4740 8353e87e7dd966ca91cc8ecb8be0bced ""
+  "book/chapter3.tex" 1576164704 4839 a6f4414b700963c4eb97e31ae4274292 ""
   "book/chapter4.tex" 1576160640 6958 563d0af4381bd331b7a7a201542aa103 ""
   "book/chapter5.tex" 1576160640 3939 d5c74b31287a749eee02928fbd731c90 ""
   "book/title_page.tex" 1576102693 540 7931009ebfeed78da904850449e34645 ""
-  "pop-culture rpg.aux" 1576164084 2163 eaf938ca26e782c0fdb1832205bf360f "pdflatex"
+  "pop-culture rpg.aux" 1576164704 2163 eaf938ca26e782c0fdb1832205bf360f "pdflatex"
   "pop-culture rpg.tex" 1576160640 219 ddecc4c4859e41b62d0ab7afee9391b9 ""
-  "pop-culture rpg.toc" 1576164084 1015 66250a74c6ff5180e3e49b67ac014571 "pdflatex"
+  "pop-culture rpg.toc" 1576164704 1015 66250a74c6ff5180e3e49b67ac014571 "pdflatex"
   (generated)
-  "pop-culture rpg.toc"
   "pop-culture rpg.aux"
-  "pop-culture rpg.pdf"
   "pop-culture rpg.log"
+  "pop-culture rpg.toc"
+  "pop-culture rpg.pdf"
