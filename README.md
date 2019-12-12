@@ -1,5 +1,5 @@
 # PCP
-Pop-Culture Players is a simple tabletop RPG designed with people who have not played a tabletop RPG before in mind. I would, however, recommend that the GM be experienced in running a tabletop game because the small ruleset makes knowing how to handle situations difficult at times. To make the game beginner friendly, it:
+Pop-Culture RPG is a simple tabletop RPG designed with people who have not played a tabletop RPG before in mind. I would, however, recommend that the GM be experienced in running a tabletop game because the small ruleset makes knowing how to handle situations difficult at times. To make the game beginner friendly, it:
 
 * Has very small ruleset
 * Has a very small sourcebook
@@ -7,7 +7,7 @@ Pop-Culture Players is a simple tabletop RPG designed with people who have not p
 
 ## How do  I start?
 
-Read through [the sourcebook](https://github.com/ephreal/PCP/blob/master/pop%20culture%20protagonists.pdf), grab a six sided die, find some other people to join you, and start.
+Read through [the sourcebook](https://github.com/ephreal/Pop-CultureRPG/blob/master/pop%20culture%20protagonists.pdf), grab a six sided die, find some other people to join you, and start.
 
 ## No, seriously, how do I start?
 If you are a GM, familiarize yourself with the rolling rules in chapter 2 and character rules in chapter 3. If you are new to GMing, read through chapter 4 as well. It has some advice for GMs. Overall, you'll find there is very little to learn, freeing you up to concentrate on creating a world or story for your players.
