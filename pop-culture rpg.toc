@@ -10,7 +10,10 @@
 \contentsline {section}{Coming up with powers}{13}% 
 \contentsline {section}{GM Review}{13}% 
 \contentsline {section}{Character Creation Example}{13}% 
-\contentsline {chapter}{\numberline {4}GM Guide}{15}% 
+\contentsline {chapter}{\numberline {4}GM Guide: How to GM}{15}% 
 \contentsline {section}{Setting up the game}{16}% 
 \contentsline {section}{Setting up the game}{17}% 
 \contentsline {section}{Running the game}{18}% 
+\contentsline {chapter}{\numberline {5}GM Guide: Creating worlds}{19}% 
+\contentsline {section}{Setting}{20}% 
+\contentsline {section}{Example world creation}{21}% 
