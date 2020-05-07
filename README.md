@@ -10,7 +10,7 @@ Pop-Culture RPG is a simple tabletop RPG designed with people who have not playe
 Read through [the sourcebook](https://github.com/ephreal/Pop-CultureRPG/blob/master/pop-culture%20rpg.pdf), grab a six sided die, find some other people to join you, and start.
 
 ## No, seriously, how do I start?
-If you are a GM, familiarize yourself with the rolling rules in chapter 2 and character rules in chapter 3. If you are new to GMing, read through chapter 4 as well. It has some advice for GMs. Overall, you'll find there is very little to learn, freeing you up to concentrate on creating a world or story for your players.
+If you are a GM, familiarize yourself with the rolling rules in chapter 2 and character rules in chapter 3. If you are new to GMing, read through chapter 5 as well. It has some advice for GMs. Overall, you'll find there is very little to learn, freeing you up to concentrate on creating a world or story for your players.
 
 If you are a player, start by thinking of what character you want to play. I recommend choosing a character from pop culture. For example, let's say you want to create everyone's favorite [blue speed mouse](https://youtu.be/4TiCF4hMBC8?t=120). Start by creating a list of 4 things he can do, 1 of which is the thing he's most known for. In this case, your list might look like
 
